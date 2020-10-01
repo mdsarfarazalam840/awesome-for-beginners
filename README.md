@@ -45,6 +45,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 ## C
 
 - [Neovim](https://github.com/neovim/neovim/labels/good%20first%20issue) _(label: good first issue)_ <br> Vim-fork focused on extensibility and agility.
+- [Operating Systems](https://github.com/SerenityOS/serenity/issues) _(label: good first issue)_ <br> Serenity OS made by C language.
 
 ## C#
 
